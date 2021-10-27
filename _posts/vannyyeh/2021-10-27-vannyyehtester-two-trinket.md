@@ -26,4 +26,4 @@ solve the issue and find the bug. The lightbulbs for the turtle(which I think co
 names, limits, and function. My bug happened because of the limitation of what I set up. 
 
 Turtle is the core of the language. Therefore, I imagine that the turtle is an object and I tried to put myself in it and the coding process becomes vivid and I 
-will understand the order of the codes (for example, when do I need to use the penup and when should I put down the pen). 
+will understand the order of the codes (for example, when do I need to use the `penup` and when should I put down the pen). 
