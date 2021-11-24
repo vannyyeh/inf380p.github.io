@@ -10,6 +10,8 @@ title: "3rd Project Update"
   function).It's really helpful and encouraging from the meeting I had with Andrew Reiter and Sung Joon Roh. 
   Therefore, my work plan is to make the game run by using API and historical data. Besides, I will make a good input for users to enter/exit the game 
   without any syntax errors. 
+  
+ 
 
 
 # Interface snapshot on Trinket
